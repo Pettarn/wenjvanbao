@@ -4,7 +4,7 @@ Page({
     },
     requestLogin: function () {
         wx.navigateTo({
-            url: '../index/index'
+            url: '../test/test'
         });
           
     }
