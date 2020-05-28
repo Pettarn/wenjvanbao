@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/login/login",
     "pages/test/test",
-    "pages/home/home"
+    "pages/home/home",
+    "pages/ground/ground"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -20,19 +21,15 @@
     "list": [
       {
         "pagePath": "pages/index/index",
-        "text": "主页"
+        "text": "问卷"
       }, 
       {
-        "pagePath": "pages/login/login",
-        "text": "登录"
-      }, 
-      {
-        "pagePath": "pages/test/test",
-        "text": "修改"
+        "pagePath": "pages/ground/ground",
+        "text": "广场"
       },
       {
         "pagePath": "pages/home/home",
-        "text": "个人主页"
+        "text": "我的"
       }
     ]
   }
